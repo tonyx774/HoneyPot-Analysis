@@ -3,7 +3,7 @@ This is a repository which provides analysis on malicious samples which arrive i
 ```mermaid
  %%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
 pie showData
-    title Key elements in Product X
+    title OverView of most common variants seen
     "Indexsinas SMB worm" : 7
     "Wannacry Ransomware" : 93
 
