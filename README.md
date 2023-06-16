@@ -6,7 +6,7 @@ This is a repository which provides analysis on malicious samples which arrive i
 ```mermaid
 
 pie showData
-    title Overview of most common variants seen
+    title Overview of most the common variants seen
     "Indexsinas SMB worm" : 2
     "Wannacry Ransomware" : 24
 
