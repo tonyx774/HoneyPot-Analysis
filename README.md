@@ -7,8 +7,9 @@ This is a repository which provides analysis on malicious samples which arrive i
 
 pie showData
     title Overview of most the common variants seen
-    "Indexsinas SMB worm" : 2
-    "Wannacry Ransomware" : 24
+    "Indexsinas SMB worm" : 8
+    "Wannacry Ransomware" : 35
+    "Zombie Boy (CryptoMiner)" : 2
 
 ```
 ## Malware Submission Based on IP Geolocation Data
