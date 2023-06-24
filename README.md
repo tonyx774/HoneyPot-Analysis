@@ -4,7 +4,7 @@ This is a repository which provides analysis on malicious samples which arrive i
 
 ## Most frequently seen Malware Variants
 ```mermaid 
-%%{init: {'theme':'base'}}%%
+
 pie showData
     title Overview of most the common variants seen
     "Indexsinas SMB worm" : 8
